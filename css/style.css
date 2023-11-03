@@ -1,0 +1,33 @@
+#home .judul {
+    font-size: 100px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+#home {
+    background-image: url(../data/img/img-1.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#beasiswaku {
+    background-image: url(../data/img/img-2.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#beasiswaku .judul {
+    font-size :50px;
+    font-weight: bolder;
+}
+
+#beasiswaku .caption {
+    font-size: 20px;
+}
+
+#footer .kosongan {
+    background-image: url(../data/img/img-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
